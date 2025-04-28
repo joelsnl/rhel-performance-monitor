@@ -14,5 +14,5 @@ Install `psutil`:
 ```bash
 pip install psutil
 
-``` Usage
+## Usage:
 python monitor.py
