@@ -11,7 +11,7 @@ Lightweight Python script to monitor CPU, Memory, and Disk usage on Red Hat (RHE
 - psutil package
 
 Install `psutil`:
-```bash
+bash
 pip install psutil
 
 ## Usage:
